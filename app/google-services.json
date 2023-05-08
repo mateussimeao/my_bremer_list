@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646107911505",
+    "project_id": "my-bremer-list",
+    "storage_bucket": "my-bremer-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646107911505:android:c40567320749c01b482f70",
+        "android_client_info": {
+          "package_name": "com.example.mybremerlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646107911505-9pk3l5u9u356q75s47m0irq69krlft70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHneZvyy7bfDjZcAjRshpvoYsc51smz-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646107911505-9pk3l5u9u356q75s47m0irq69krlft70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
