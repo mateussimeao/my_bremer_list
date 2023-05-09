@@ -72,6 +72,7 @@ public class ListaFilmesUser extends AppCompatActivity {
                 if(listaFilmes.size()<4){
                     Intent intent = new Intent(ListaFilmesUser.this, EditLista.class);
                     startActivity(intent);
+                    finish();
                 }
                 else {
                     Snackbar snackbar = Snackbar.make(view,"Limite de filmes atingido", Snackbar.LENGTH_SHORT);
