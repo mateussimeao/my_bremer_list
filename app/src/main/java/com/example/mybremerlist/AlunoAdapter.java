@@ -45,6 +45,7 @@ public class AlunoAdapter extends RecyclerView.Adapter<AlunoAdapter.AlunoViewHol
 
                 // Iniciar a outra activity
                 context.startActivity(intent);
+
             }
         });
     }
