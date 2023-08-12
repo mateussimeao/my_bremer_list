@@ -1,5 +1,5 @@
-# AV2 DevApps
-## Equipe: Jose Auto, Henrique Lyrio, Mateus Pires e Marcelo Silveira
+# MY BREMER LIST
+## DEVS: Jose Auto, Henrique Lyrio, Mateus Pires e Marcelo Silveira
 ## Projeto: My Bremer List
 
 O jovem Bremer é um aspirante a cinéfilo e quer compartilhar de seus gostos e conhecer novas opiniões sobre filmes,
